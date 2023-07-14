@@ -1,0 +1,81 @@
+07/14/2023 10:14:39 PM INFO: Job started.
+07/14/2023 10:16:33 PM INFO: Started scraping page: 1
+07/14/2023 10:18:25 PM INFO: Number of inserted laptops: 1
+07/14/2023 10:19:03 PM INFO: Number of inserted laptops: 2
+07/14/2023 10:20:03 PM ERROR: Timeout occurred. Skipping the current laptop.
+Traceback (most recent call last):
+  File "D:\Internship\day16\main.py", line 87, in scrape_data
+    rating = WebDriverWait(driver, 45).until(EC.visibility_of_element_located((By.XPATH, "//span[@class='score-average']")))
+  File "C:\Users\rehan\anaconda3\lib\site-packages\selenium\webdriver\support\wait.py", line 95, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BEA813+48355]
+	(No symbol) [0x00B7C4B1]
+	(No symbol) [0x00A85358]
+	(No symbol) [0x00AB09A5]
+	(No symbol) [0x00AB0B3B]
+	(No symbol) [0x00ADE232]
+	(No symbol) [0x00ACA784]
+	(No symbol) [0x00ADC922]
+	(No symbol) [0x00ACA536]
+	(No symbol) [0x00AA82DC]
+	(No symbol) [0x00AA93DD]
+	GetHandleVerifier [0x00E4AABD+2539405]
+	GetHandleVerifier [0x00E8A78F+2800735]
+	GetHandleVerifier [0x00E8456C+2775612]
+	GetHandleVerifier [0x00C751E0+616112]
+	(No symbol) [0x00B85F8C]
+	(No symbol) [0x00B82328]
+	(No symbol) [0x00B8240B]
+	(No symbol) [0x00B74FF7]
+	BaseThreadInitThunk [0x764D00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F87B4E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F87B1E+238]
+
+07/14/2023 10:21:13 PM INFO: Number of inserted laptops: 3
+07/14/2023 10:22:35 PM ERROR: Timeout occurred. Skipping the current laptop.
+Traceback (most recent call last):
+  File "D:\Internship\day16\main.py", line 87, in scrape_data
+    rating = WebDriverWait(driver, 45).until(EC.visibility_of_element_located((By.XPATH, "//span[@class='score-average']")))
+  File "C:\Users\rehan\anaconda3\lib\site-packages\selenium\webdriver\support\wait.py", line 95, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00BEA813+48355]
+	(No symbol) [0x00B7C4B1]
+	(No symbol) [0x00A85358]
+	(No symbol) [0x00AB09A5]
+	(No symbol) [0x00AB0B3B]
+	(No symbol) [0x00ADE232]
+	(No symbol) [0x00ACA784]
+	(No symbol) [0x00ADC922]
+	(No symbol) [0x00ACA536]
+	(No symbol) [0x00AA82DC]
+	(No symbol) [0x00AA93DD]
+	GetHandleVerifier [0x00E4AABD+2539405]
+	GetHandleVerifier [0x00E8A78F+2800735]
+	GetHandleVerifier [0x00E8456C+2775612]
+	GetHandleVerifier [0x00C751E0+616112]
+	(No symbol) [0x00B85F8C]
+	(No symbol) [0x00B82328]
+	(No symbol) [0x00B8240B]
+	(No symbol) [0x00B74FF7]
+	BaseThreadInitThunk [0x764D00C9+25]
+	RtlGetAppContainerNamedObjectPath [0x76F87B4E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F87B1E+238]
+
+07/14/2023 10:23:48 PM INFO: Number of inserted laptops: 4
+07/14/2023 10:24:12 PM INFO: Number of inserted laptops: 5
+07/14/2023 10:24:58 PM INFO: Number of inserted laptops: 6
+07/14/2023 10:25:29 PM INFO: Number of inserted laptops: 7
+07/14/2023 10:25:55 PM INFO: Number of inserted laptops: 8
+07/14/2023 10:26:49 PM INFO: Number of inserted laptops: 9
+07/14/2023 10:27:03 PM INFO: Number of inserted laptops: 10
+07/14/2023 10:27:26 PM INFO: Number of inserted laptops: 11
+07/14/2023 10:28:14 PM INFO: Number of inserted laptops: 12
+07/14/2023 10:29:25 PM INFO: Number of inserted laptops: 13
+07/14/2023 10:29:46 PM INFO: Number of inserted laptops: 14
+07/14/2023 10:30:49 PM INFO: Number of inserted laptops: 15
