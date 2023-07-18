@@ -1,0 +1,21 @@
+,rating,previousRanking,player.id,player.fullName,player.nationality,player.rightArmedBowl,player.rightHandedBat,player.altIds.pulse,currentHighestRatingMatch.id,currentHighestRatingMatch.startDate,currentHighestRatingMatch.venue.id,currentHighestRatingMatch.venue.fullName,currentHighestRatingMatch.venue.shortName,currentHighestRatingMatch.teamA.id,currentHighestRatingMatch.teamA.fullName,currentHighestRatingMatch.teamA.abbreviation,currentHighestRatingMatch.teamB.id,currentHighestRatingMatch.teamB.fullName,currentHighestRatingMatch.teamB.abbreviation
+0,915,0,7713,Dawid Malan,ENG,False,False,3318,16113,2020-12-01,8001,"Newlands, Cape Town",Cape Town,8,South Africa,SA,1,England,ENG
+1,910,0,8856,Suryakumar Yadav,IND,False,False,108,16990,2023-01-27,6049,"JSCA International stadium Complex, Ranc",Ranchi,6,India,IND,4,New Zealand,NZ
+2,900,0,7149,Aaron Finch,AUS,False,False,167,15683,2018-07-03,9001,Harare Sports Club,Harare,9,Zimbabwe,ZIM,2,Australia,AUS
+3,897,0,6939,Virat Kohli,IND,False,False,164,15405,2014-09-07,1003,"Edgbaston, Birmingham",Edgbaston,1,England,ENG,6,India,IND
+4,896,0,7480,Babar Azam,PAK,False,False,2759,15772,2019-05-05,1022,"Sophia Gardens, Cardiff",Cardiff,1,England,ENG,5,Pakistan,PAK
+5,882,0,6605,Kevin Pietersen,ENG,False,False,172,15177,2010-05-16,3001,"Kensington Oval, Bridgetown, Barbados",Barbados,1,England,ENG,2,Australia,AUS
+6,875,0,7469,Mohammad Rizwan,PAK,False,False,1201,16801,2022-09-28,5007,"Gaddafi Stadium, Lahore",Lahore,5,Pakistan,PAK,1,England,ENG
+7,872,0,6731,Eoin Morgan,ENG,False,False,197,15204,2011-08-31,1005,"Old Trafford, Manchester",Old Trafford,1,England,ENG,6,India,IND
+8,866,0,7190,Alex Hales,ENG,False,False,511,15405,2014-09-07,1003,"Edgbaston, Birmingham",Edgbaston,1,England,ENG,6,India,IND
+9,854,0,2902,Lokesh Rahul,IND,False,False,1125,15684,2018-07-03,1005,"Old Trafford, Manchester",Old Trafford,1,England,ENG,6,India,IND
+10,849,0,6385,Brendon McCullum,NZ,False,False,202,15267,2012-09-21,7009,Pallekele International Cricket Stadium,Pallekele,4,New Zealand,NZ,10,Bangladesh,BAN
+11,843,0,7150,Francois du Plessis,SA,False,False,24,15428,2015-07-05,9607,"Shere Bangla National Stadium, Mirpur",Mirpur,10,Bangladesh,BAN,8,South Africa,SA
+12,842,0,7697,Fakhar Zaman,PAK,False,False,3801,15689,2018-07-08,9001,Harare Sports Club,Harare,2,Australia,AUS,5,Pakistan,PAK
+13,836,0,7267,Glenn Maxwell,AUS,False,False,282,15978,2019-10-27,2001,Adelaide Oval,Adelaide,2,Australia,AUS,7,Sri Lanka,SL
+14,832,0,6395,Shane Watson,AUS,False,False,227,15281,2012-09-30,7003,"R.Premadasa Stadium, Khetterama",Colombo (RPS),2,Australia,AUS,8,South Africa,SA
+15,831,0,2303,Chris Gayle,WI,False,False,236,15288,2012-10-05,7003,"R.Premadasa Stadium, Khetterama",Colombo (RPS),2,Australia,AUS,3,West Indies,WI
+16,831,0,3144,Devon Conway,NZ,False,False,4650,16839,2022-10-22,2005,Sydney Cricket Ground,Sydney,2,Australia,AUS,4,New Zealand,NZ
+17,830,0,7277,Colin Munro,NZ,False,False,773,15706,2018-11-02,9503,Dubai Sports City Cricket Stadium,Dubai,5,Pakistan,PAK,4,New Zealand,NZ
+18,826,0,6977,David Warner,AUS,False,False,170,15174,2010-05-11,3011,Daren Sammy National Cricket Stadium,St Lucia,3,West Indies,WI,2,Australia,AUS
+19,802,0,2283,Tillekeratne Dilshan,SL,False,False,240,15120,2009-09-02,7003,"R.Premadasa Stadium, Khetterama",Colombo (RPS),7,Sri Lanka,SL,4,New Zealand,NZ
