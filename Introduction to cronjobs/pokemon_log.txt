@@ -1,0 +1,28 @@
+  File "/home/rehan/pokemon_project/pokemon_project/spiders/pokemon_db.py", line 56
+    .
+    ^
+SyntaxError: invalid syntax
+  File "/home/rehan/pokemon_project/pokemon_project/spiders/pokemon_db.py", line 56
+    .
+    ^
+SyntaxError: invalid syntax
+  File "/home/rehan/pokemon_project/pokemon_project/spiders/pokemon_db.py", line 56
+    .
+    ^
+SyntaxError: invalid syntax
+  File "/home/rehan/pokemon_project/pokemon_project/spiders/pokemon_db.py", line 56
+    .
+    ^
+SyntaxError: invalid syntax
+  File "/home/rehan/pokemon_project/pokemon_project/spiders/pokemon_db.py", line 56
+    .
+    ^
+SyntaxError: invalid syntax
+  File "/home/rehan/pokemon_project/pokemon_project/spiders/pokemon_db.py", line 56
+    .
+    ^
+SyntaxError: invalid syntax
+  File "/home/rehan/pokemon_project/pokemon_project/spiders/pokemon_db.py", line 56
+    .
+    ^
+SyntaxError: invalid syntax
